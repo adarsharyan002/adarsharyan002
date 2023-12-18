@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://dazzling-bell-376019.netlify.app](https://dazzling-bell-376019.netlify.app)
 
 - 💬 Ask me about **MERN stack**
 
